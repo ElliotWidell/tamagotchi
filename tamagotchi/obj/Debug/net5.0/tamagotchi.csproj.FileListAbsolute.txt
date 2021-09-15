@@ -14,3 +14,19 @@ C:\Users\elliot.widell\Desktop\Programering\A prog i 3an\tamagotchi\tamagotchi\o
 C:\Users\elliot.widell\Desktop\Programering\A prog i 3an\tamagotchi\tamagotchi\obj\Debug\net5.0\ref\tamagotchi.dll
 C:\Users\elliot.widell\Desktop\Programering\A prog i 3an\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.pdb
 C:\Users\elliot.widell\Desktop\Programering\A prog i 3an\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.genruntimeconfig.cache
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.csproj.AssemblyReference.cache
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.AssemblyInfoInputs.cache
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.AssemblyInfo.cs
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.dll
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\ref\tamagotchi.dll
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.pdb
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.exe
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.deps.json
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.runtimeconfig.json
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.runtimeconfig.dev.json
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.dll
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\ref\tamagotchi.dll
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\bin\Debug\net5.0\tamagotchi.pdb
+C:\Users\elliot.widell\Desktop\Programering\tamagotchi\tamagotchi\obj\Debug\net5.0\tamagotchi.genruntimeconfig.cache

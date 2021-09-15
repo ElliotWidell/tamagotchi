@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elliot.widell\\Desktop\\Programering\\A prog i 3an\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {}
+    "C:\\Users\\elliot.widell\\Desktop\\Programering\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elliot.widell\\Desktop\\Programering\\A prog i 3an\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {
+    "C:\\Users\\elliot.widell\\Desktop\\Programering\\tamagotchi\\tamagotchi\\tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elliot.widell\\Desktop\\Programering\\A prog i 3an\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
+        "projectUniqueName": "C:\\Users\\elliot.widell\\Desktop\\Programering\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
         "projectName": "tamagotchi",
-        "projectPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\A prog i 3an\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
+        "projectPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\tamagotchi\\tamagotchi\\tamagotchi.csproj",
         "packagesPath": "C:\\Users\\elliot.widell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\A prog i 3an\\tamagotchi\\tamagotchi\\obj\\",
+        "outputPath": "C:\\Users\\elliot.widell\\Desktop\\Programering\\tamagotchi\\tamagotchi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elliot.widell\\AppData\\Roaming\\NuGet\\NuGet.Config"
